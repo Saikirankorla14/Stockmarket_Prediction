@@ -60,5 +60,9 @@ Feel free to fork and extend! Ideas for improvements:
 - Deploy as a web app
 - Create a real-time signal dashboard
 
-📄 License
-This project is open-source and available under the MIT License.
+Output Stock Prediction
+![stock prediction](https://github.com/user-attachments/assets/58523ba3-b0ca-45b7-bd9b-96a7deee809a)
+
+Output Stock Prediction using LSTM
+![Stock_Prediction_Using_LSTM](https://github.com/user-attachments/assets/eb3d1312-532b-4026-89be-770a372b6d0e)
+
